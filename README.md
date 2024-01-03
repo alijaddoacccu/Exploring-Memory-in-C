@@ -1,1 +1,1 @@
-# -Exploring-Memory-in-C
+# Exploring-Memory-in-C
