@@ -1,6 +1,10 @@
 # Exploring-Memory-in-C
 
 
+
+test
+
+
 Create a new directory and call it `FCS/Exploring_Memory` we can do this using the following commands in the terminal. 
 
 ```
